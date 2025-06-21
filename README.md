@@ -3,7 +3,7 @@ Welcome to the OIBSIP (Online Internship Projects) repository! This public repos
 
 ## Internship  Offer Letter:
 
-[📄 Download Report (PDF)](./report.pdf)
+[📄 Show Offer Letter (PDF)](./Data_Analytics_Offer_Letter.pdf)
 
 
 
