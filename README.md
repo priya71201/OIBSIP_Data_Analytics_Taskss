@@ -56,7 +56,7 @@ Thank you for visiting my repository! If you have any questions or feedback, fee
 
 I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
 
- LinkedIn: [Priyanshu Priya](www.linkedin.com/in/priyanshu-priya-802a791b8)
+ LinkedIn: [Priyanshu Priya](www.linkedin.com/in/priyanshu-priya-802a791b8/)
  
  Email: priyanshupriya2946@gmail.com
 
