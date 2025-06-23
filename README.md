@@ -43,6 +43,23 @@ To know more about this company, click [here](https://oasisinfobyte.com/) to vis
 
 - [Task4](https://github.com/priya71201/OIBSIP_Data_Analytics_Taskss/tree/main/level%201/Sentiment%20Analyslis)
 
+
+5) Project Title: PredictingHouse Prices with Linear Regression
+
+- [Task1](https://github.com/priya71201/OIBSIP_Data_Analytics_Taskss/tree/main/level%202/Predicting%20House%20Prices%20with%20Linear%20Regression)
+
+6) Project Title: Wine Quality Prediction
+
+- [Task2](https://github.com/priya71201/OIBSIP_Data_Analytics_Taskss/tree/main/level%202/Wine%20Quality%20Prediction)
+
+7) Project Title: Fraud Detection
+
+- [Task3](https://github.com/priya71201/OIBSIP_Data_Analytics_Taskss/tree/main/level%202/Fraud%20Detection)
+
+8) Project Title: Unveiling the Android App Market: 
+
+- [Task4](https://github.com/priya71201/OIBSIP_Data_Analytics_Taskss/tree/main/level%202/Unveiling%20The%20Andorid%20App%20Market)
+
 ## Conclusion
 
 These tasks provided valuable hands-on experience and helped me enhance my skills as a Data Analytics. Within the duration of my internship, I successfully completed three challenging tasks that were provided to me by Oasis Infobyte. Each task presented unique challenges and opportunities for growth. I am truly proud of the work I have accomplished during my time here, and I hope that this repository can serve as an inspiration to others to be diligent, dedicated, and supportive in their roles within their respective companies. I am grateful for the learning experience and the chance to contribute to real-world data science projects. 
